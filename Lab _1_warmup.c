@@ -35,7 +35,7 @@ void Gen_bins(
 
 #  ifdef DEBUG
    printf("bin_maxes = ");
-   for (i = 0; i < bin_count; i++)
+   for (i = 0; i < bin_count; i++) 
       printf("%4.3f ", bin_maxes[i]);
    printf("\n");
 #  endif
