@@ -28,6 +28,6 @@ int main(int argc, char* argv[]) {
    double finish = omp_get_wtime();
    free(temp );
    printf("Estimated Temp %e seconds\n", finish - start);
-   //imprimeMatriz(a, n);
+   //imprimeMatriz(a, n); 
    return 0;
 }  /* main */
