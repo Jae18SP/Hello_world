@@ -1,5 +1,5 @@
 /* REF
-** http://dudevictor.github.io/projects/programacao-concorrente/shared-memory-with-openmp/
+** http://dudevictor.github.io/projects/programacao-concorrente/shared-memory-with-openmp/ 
 */
 
 int main(int argc, char* argv[]) {
