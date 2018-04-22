@@ -3,7 +3,7 @@
 ** http://dudevictor.github.io/projects/programacao-concorrente/shared-memory-with-openmp/
 
 ** How does the performance of your parallelization of Count sort compare
-to serial Count sort? How does it compare to the serial qsort
+to serial Count sort? How does it compare to the serial qsort 
 library function?**
 
 
